@@ -1,11 +1,11 @@
 @font-face {
     font-family: MainFont;
-    src: url(/Images/sf-pro-display_regular.ttf);
+    src: url(Images/sf-pro-display_regular.ttf);
 }
 
 @font-face {
     font-family: Boldfont;
-    src: url(/Images/sf-pro-display_semibold.ttf);
+    src: url(Images/sf-pro-display_semibold.ttf);
 }
 
 
@@ -103,7 +103,7 @@
     padding-top: 50px;
     width: 1536px;
     height: 530px;
-    background-image: url(/Images/Main2.jpg);
+    background-image: url(Images/Main2.jpg);
     margin-top: 10px;
     background-position: center;
 }
@@ -148,7 +148,7 @@
     padding-top: 50px;
     width: 1536px;
     height: 530px;
-    background-image: url(/Images/main3.jpg);
+    background-image: url(Images/main3.jpg);
     margin-top: 10px;
     background-position: center;
     text-align: center;
@@ -199,7 +199,7 @@
     margin-left: 10px;
     height: 580px;
     width: 750px;
-    background-image: url(/Images/small1.jpg);
+    background-image: url(Images/small1.jpg);
     color: #fff;
     text-align: center;
     background-position: center;
@@ -236,7 +236,7 @@
     margin-left: 10px;
     height: 580px;
     width: 750px;
-    background-image: url(/Images/small2.jpg);
+    background-image: url(Images/small2.jpg);
     color: #1d1d1f;
     text-align: center;
     background-position: center;
@@ -287,7 +287,7 @@
     margin-left: 10px;
     height: 580px;
     width: 750px;
-    background-image: url(/Images/small3.jpg);
+    background-image: url(Images/small3.jpg);
     color: #1d1d1f;
     text-align: center;
     background-position: center;
@@ -336,7 +336,7 @@
     margin-left: 10px;
     height: 580px;
     width: 750px;
-    background-image: url(/Images/small4.jpg);
+    background-image: url(Images/small4.jpg);
     color: #1d1d1f;
     text-align: center;
     background-position: center;
@@ -387,7 +387,7 @@
     margin-left: 10px;
     height: 580px;
     width: 750px;
-    background-image: url(/Images/small5.jpg);
+    background-image: url(Images/small5.jpg);
     color: #1d1d1f;
     text-align: center;
     background-position: center;
@@ -431,7 +431,7 @@
     margin-left: 10px;
     height: 580px;
     width: 750px;
-    background-image: url(/Images/small6.jpg);
+    background-image: url(Images/small6.jpg);
     color: #1d1d1f;
     text-align: center;
     background-position: center;
